@@ -1,0 +1,6 @@
+Kali Linux
+Nmap
+Metasploit Framework
+Metasploitable2
+John the Ripper
+VirtualBox
