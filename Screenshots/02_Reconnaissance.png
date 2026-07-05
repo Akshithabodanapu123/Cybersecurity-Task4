@@ -1,0 +1,9 @@
+## 02_Reconnaissance.png
+
+**Title:** Reconnaissance (Information Gathering)
+
+**Description:**
+This screenshot is taken from the OWASP Web Security Testing Guide (WSTG). It represents the learning resources used to understand the reconnaissance phase of penetration testing. Reconnaissance involves gathering information about a target system, such as IP addresses, domain details, open ports, and available services before performing security testing.
+
+**Purpose:**
+To understand how information gathering helps security professionals identify potential vulnerabilities and plan further testing activities.
