@@ -4,10 +4,13 @@ This folder contains screenshots related to Task 4.
 
 Suggested Screenshots:
 
-1. Reconnaissance
-2. Scanning
-3. Metasploit Learning
-4. Password Attack Concepts
-5. Social Engineering
-6. Malware Analysis
-7. System Hardening
+README.md
+01_Lab_Setup.png
+02_Reconnaissance.png
+03_Scanning.png
+04_Metasploit_Overview.png
+05_Post_Exploitation.png
+06_Password_Attacks.png
+07_Social_Engineering.png
+08_Malware_Analysis.png
+09_System_Hardening.png
